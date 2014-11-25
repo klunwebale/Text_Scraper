@@ -1,4 +1,14 @@
 Text_Scraper
 ============
 
-Sample Text scraper for walmart.com 
+A textscraper in Java using Jsoup library to scrape webiste: www.walmart.com. 
+
+The text scraper gives results for following queries:
+============
+1) Query 1:
+
+Returns total number of results returned after searching for a product
+
+1) Query 2:
+
+Returns details of each product like name, price.
